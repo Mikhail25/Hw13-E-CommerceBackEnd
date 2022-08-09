@@ -13,15 +13,15 @@ This program includes:
 
 ----------------------------------------------------------------
 
-![Screenshot of the database being seeded](./images/Screen1.png)
+![Screenshot of the database being seeded](./images/screen1.png)
 
-![Screenshot of retrieving all data from the database](./images/Screen2.bmp)
+![Screenshot of retrieving all data from the database](./images/screen2.png)
 
-![Screenshot of getting one columm of data from the database ](./images/Screen3.bmp)
+![Screenshot of getting one columm of data from the database ](./images/screen3.png)
 
-![Screenshot of updating one column of the database](./images/Screen4.bmp)
+![Screenshot of updating one column of the database](./images/screen4.png)
 
-![Screenshot of deleting part of the database](./images/Screen5.bmp)
+![Screenshot of deleting part of the database](./images/screen5.png)
 
 [Link to the website](https://github.com/Mikhail25/Hw13-E-CommerceBackEnd)
 
